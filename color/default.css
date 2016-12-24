@@ -1,0 +1,55 @@
+
+a,.tp-caption a.btn:hover {
+	color: #5ffdff;
+}
+.top-nav-collapse {
+	background: #ff4768; /* Old browsers */
+background: -moz-linear-gradient(top,  #ff4768 6%, #66ffff 98%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(6%,#ff4768), color-stop(98%,#66ffff)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #ff4768 6%,#66ffff 98%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #ff4768 6%,#66ffff 98%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #ff4768 6%,#66ffff 98%); /* IE10+ */
+background: linear-gradient(to bottom,  #ff4768 6%,#66ffff 98%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff4768', endColorstr='#66ffff',GradientType=0 ); /* IE6-9 */
+
+}
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+	color: #5ffdff;
+	opacity:70%;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: #5ffdff;
+}
+
+.widget-avatar .avatar:hover {
+    border: 5px solid #5ffdff;
+}
+
+.bg-skin {
+	background: #5ffdff;
+}
+
+form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
+	border-color: #5ffdff;
+}
+
+footer {
+background: #66ffff; /* Old browsers */
+background: -moz-linear-gradient(top,  #66ffff 5%, #ccff00 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(5%,#66ffff), color-stop(100%,#ccff00)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #66ffff 5%,#ccff00 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #66ffff 5%,#ccff00 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #66ffff 5%,#ccff00 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #66ffff 5%,#ccff00 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#66ffff', endColorstr='#ccff00',GradientType=0 ); /* IE6-9 */
+opacity:70%;
+}
+
+.btn-skin {
+  color: #fff;
+  background-color: #5ffdff;
+  border-color: #5ffdff;
+}
